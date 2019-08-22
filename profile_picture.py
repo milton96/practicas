@@ -1,3 +1,4 @@
+#Se deben validar las dimensiones de una imagen
 l = int(input())
 n = int(input())
 while n > 0:
