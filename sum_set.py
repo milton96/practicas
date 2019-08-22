@@ -10,6 +10,6 @@ for i in c:
 b.sort()
 for i in a:
     for j in b:
-        if i+j not in c:
+        if i+j not in c or j+2 not in c:
             b.remove(j)
 print(*b)
