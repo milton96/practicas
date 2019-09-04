@@ -1,4 +1,4 @@
-#Se deben validar las dimensiones de una imagen para saber si es posible o no subir una imagen
+# Se deben validar las dimensiones de una imagen para saber si es posible o no subir una imagen
 l = int(input())
 n = int(input())
 while n > 0:
