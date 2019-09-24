@@ -6,7 +6,7 @@ def f(x):
 def ternary_search(start, end):
     l = start
     r = end
-    for i in range(45):
+    for _ in range(45):
         l1 = (l*2+r)/3
         l2 = (l+2*r)/3
         #print(l1,l2)
